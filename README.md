@@ -1,11 +1,11 @@
 # go-void-bot
 
-**WARNING**
+**WARNING**<br/>
 the bot is still under development
 if you want to use it now, then check this repository periodically in case auto-update does not work and be prepared for some bugs and errors
 if you want to use a more stable version, check the repository weekly until this paragraph disappears
 
-Console bot for pixelplanet.fun
+Console bot for pixelplanet.fun<br/>
 **Features:**<br/>
 1. can work on Earth, Moon, Bit and Covid
 2. can log in to ppf if you want to
@@ -21,5 +21,5 @@ Console bot for pixelplanet.fun
 1. [download it](https://github.com/TouchedByDarkness/go-void-bot/raw/main/bot.exe)
 2. and run file
 
-**Note**
+**Note**<br/>
 on [virustotal](https://www.virustotal.com/gui/file/7aef687485c6d375fd96cc9ea9965abbd77399a9ed4b5f715ddf7298a2dfcc2b?nocache=1) 10 antiviruses out of 66 do not trust the file, but the reason is that I use a young language and compress the executable file
