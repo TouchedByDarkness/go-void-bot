@@ -1,11 +1,11 @@
 # go-void-bot
+Console bot for pixelplanet.fun<br/>
 
 **WARNING**<br/>
 the bot is still under development
 if you want to use it now, then check this repository periodically in case auto-update does not work and be prepared for some bugs and errors
 if you want to use a more stable version, check the repository weekly until this paragraph disappears
 
-Console bot for pixelplanet.fun<br/>
 **Features:**<br/>
 1. can work on Earth, Moon, Bit and Covid
 2. can log in to ppf if you want to
